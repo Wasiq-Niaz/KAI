@@ -1,3 +1,3 @@
 This is my first git repository.
 <br>
-Author by Wasiq 
+Author by Wasiq (KAI)
